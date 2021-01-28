@@ -34,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 In the terminal navigate to the root of the project and execute 
 
-`npm json-server`
+`npm run json-server`
 
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
