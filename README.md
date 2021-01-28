@@ -22,7 +22,7 @@ There are 3 scripts that need to be executed:
 
 Run `npm istall` form both the root level and from server directory.
 
-## start the client
+## Start the client
 
 In the terminal navigate to the root of the project and execute 
 
@@ -30,7 +30,7 @@ In the terminal navigate to the root of the project and execute
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## start the mock service
+## Start the mock service
 
 In the terminal navigate to the root of the project and execute 
 
@@ -38,7 +38,7 @@ In the terminal navigate to the root of the project and execute
 
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
-## start the Server
+## Start the Server
 
 Navigate to server directory and execute 
 
